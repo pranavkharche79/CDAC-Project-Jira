@@ -16,7 +16,7 @@ Scope:
 Functional Requirements:
 
 Student:
-	1.Student can log in by Id anf password given by CDAC.
+	1.Student can log in by Id and password given by CDAC.
 	2.Multiple students can give exam through this site.
 	3.Interface of software to provide the interaction between students,admins and teachers.
 	4.Software provides platform and saves the time and also saves the record.
