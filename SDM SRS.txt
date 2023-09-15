@@ -14,6 +14,7 @@ Scope:
 	3.Student can log in with their id,name and institute id to give the exam and can view their result and their Institutes can view the result of their students.
 
 Functional Requirements:
+
 Student:
 	1.Student can log in by Id anf password given by CDAC.
 	2.Multiple students can give exam through this site.
@@ -38,13 +39,32 @@ Admin:
 
 Non Functional requirements:
 
-Security
-Reliability
+Security:
+->The database may get crashed at any certain time due to virus oroperating system failure. Therefore, it is required to take thedatabase backup.
+
+Reliability:
+->We need to regularly back up data and have a plan to get things back on track if something breaks.
+
 Availibilty
+->The system should be available 99.9% of the time.
+
 Maintainability
+->The website can be maintained in present or future. It will be easy to operate new requirements in the individual modules.
+
 Accessibility
+->The system should have a user-friendly interface with clear navigation, legible fonts, and appropriate color contrast to accommodate users with visuals.
+
 Durability
+->Ensure that user data, exam content, and system configurations are reliably stored and protected against data corruption.
+
 Efficiency
+->The system should efficiently use server resources, such as CPU and memory, to provide fast response times.Avoid redundant or unnecessary data storage and processing to minimize resource consumption.
+
 Modularity
+->Divide the system into well-defined modules, such as user management, test creation, and scoring, to make it easier to develop, maintain, and upgrade.
+
 Scalability
-Safety 
+->Design the system architecture to allow adding more servers or instances to handle increased user traffic during peak times.
+
+Safety
+->Implement robust backup procedures and disaster recovery plans to ensure data integrity and availability in case of unexpected incidents.
