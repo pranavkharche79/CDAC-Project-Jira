@@ -1,11 +1,11 @@
-<B>Student Credentials:-</B>
+<H3> Student Credentials:-
 	1.student id
 	2.student password
 	3.student photo
 	4.student email address
  	5.student answers
 	
-<B>Section Navigation:- </B>
+Section Navigation:- 
 	1.Home Screen/Instruction Page
         2.Section A - Aptitute 
  	3.Section B - Reasoning
