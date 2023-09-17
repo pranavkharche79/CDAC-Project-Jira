@@ -3,6 +3,7 @@ Student Credentials:-
 	2.student password
 	3.student photo
 	4.student email address
+ 	5.student answers
 	
 Section Navigation:-
 	1.Home Screen/Instruction Page
@@ -29,11 +30,13 @@ Examination Details:
  	5.Exam Time
   	6.Passing Marks
    	7.Total Marks
+    	8.marking system
 
 Course Coardinator:
         1.centre allocation details
 	2.Student List
  	3.Student Marks
+  	4.Student Rank
 
 CDAC Authority:
         1.seat allocation details
