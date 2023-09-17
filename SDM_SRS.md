@@ -62,7 +62,7 @@ Faculty,course coordinator,CDAC director,CDAC management Team,student.
 -> The website can be maintained in present or future. It will be easy to operate new requirements in the individual modules.
 
 ### Accessibility
--> The system should have a user-friendly interface with clear navigation, legible fonts, and appropriate color contrast to accommodate users with visuals.
+-> The system should have a user-friendly interface with clear navigation and appropriate color contrast to accommodate users with visuals.
 
 ### Durability
 -> Ensure that user data, exam content, and system configurations are reliably stored and protected against data corruption.
