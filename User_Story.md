@@ -1,5 +1,7 @@
-Student:-
-         1.As a student i need to check my email so that i can get my exam details.
+
+## STUDENT:-
+
+	 1.As a student i need to check my email so that i can get my exam details.
 	 2.As a student i need to have my admit card so that i can appear for exam.
 	 3.As a student i need to have instructions window so that i do not make any mistakes.
 	 4.As a student i need to have help section so that i can get help for the system use.
@@ -14,12 +16,13 @@ Student:-
 	13.As a student i need to have forgot password option so that i can reset my password.
 	
 
-FACULTY POV..
+## FACULTY POV:-
+
        1. As a faculty, i need to add or remove questions, so that i can set the questions for student.
        2. As a faculty, i need to view student response,so that i can evaluate the result
        3. As a faculty, i need to have the feedback from students,so that i can get the idea of level of exam.
 
-CDAC director 
+## CDAC DIRECTOR:- 
 
 	1.As a director, i need to have the exam schedule,so that i can authorize the exam.
 	2.As a director, i need to get the updates of syllabus from the syllabus development panel,so that i can publish and authorize the same.
