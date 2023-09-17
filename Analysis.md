@@ -10,7 +10,8 @@ Section Navigation:-
         1.Section A - Aptitute 
  	2.Section B - Reasoning
 	3.Section C - Pseudo Code
-	4.End Exam
+ 	4.Timer
+	5.End Exam
 
 Payment Gateaway:
         1.Transaction id
@@ -19,6 +20,7 @@ Payment Gateaway:
         4.Payment reciept
 	5.Upi Service
  	6.NEFT/RTGS
+
 Examination Details:
         1.Exam Syllabus
         2.Exam Pattern
@@ -37,3 +39,4 @@ CDAC Authority:
         1.seat allocation details
 	2.Student Details
  	3.Student Document Copies
+  	4.Student Result Details
