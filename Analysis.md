@@ -5,13 +5,13 @@ Student Credentials:-
 	4.student email address
 	
 Section Navigation:-
-	0.Home Screen/Instruction Page
-        1.Section A - Aptitute 
- 	2.Section B - Reasoning
-	3.Section C - Pseudo Code
- 	4.Timer
-  	5.Questions List
-	6.End Exam
+	1.Home Screen/Instruction Page
+        2.Section A - Aptitute 
+ 	3.Section B - Reasoning
+	4.Section C - Pseudo Code
+ 	5.Timer
+  	6.Questions List
+	7.End Exam
 
 Payment Gateaway:
         1.Transaction id
