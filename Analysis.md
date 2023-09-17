@@ -8,7 +8,7 @@
 	
 ## Section Navigation:- 
 	
-  1.Home Screen/Instruction Page
+  	1.Home Screen/Instruction Page
 	2.Section A - Aptitute 
  	3.Section B - Reasoning
 	4.Section C - Pseudo Code
