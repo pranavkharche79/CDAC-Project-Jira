@@ -18,12 +18,12 @@
 
 ## Payment Gateaway:
     
-	1.Transaction id
-        2.Student id
-	3.Bank details
- 	4.Payment reciept
-	5.Upi Service
- 	6.NEFT/RTGS
+1. Transaction id
+2. Student id
+3. Bank details
+4. Payment reciept
+5. Upi Service
+6. NEFT/RTGS
 
 ## Examination Details:
     
