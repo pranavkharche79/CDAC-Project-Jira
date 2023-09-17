@@ -1,4 +1,3 @@
-
 Student Credentials:-
 	1.student id
 	2.student password
@@ -11,7 +10,8 @@ Section Navigation:-
  	2.Section B - Reasoning
 	3.Section C - Pseudo Code
  	4.Timer
-	5.End Exam
+  	5.Questions List
+	6.End Exam
 
 Payment Gateaway:
         1.Transaction id
