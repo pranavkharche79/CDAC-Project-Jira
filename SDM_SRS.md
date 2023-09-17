@@ -9,12 +9,14 @@ Faculty,course coordinator,CDAC director,CDAC management Team,student.
 
 ## Objective (Purpose):
 	1.The online exam portal for CDAC.
-	2.Students and internal users (CDAC staff) through a single Gateway using internet.It will enable CDAC to conduct online exam for students.
+	2.Students and internal users (CDAC staff) through a single Gateway using internet.
+	It will enable CDAC to conduct online exam for students.
 
 ## Scope:
 	1.This system allows student to give exams online via secured network.
 	2.Enabling fair exam for each and every student.
-	3.Student can log in with their id,name and institute id to give the exam and can view their result and their Institutes can view the result of their students.
+	3.Student can log in with their id,name and institute id to give the exam and can view their result 
+	and their Institutes can view the result of their students.
 
 ## Functional Requirements:
 
