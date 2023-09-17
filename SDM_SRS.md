@@ -8,38 +8,38 @@ online Assessment Test for CDAC
 Faculty,course coordinator,CDAC director,CDAC management Team,student.
 
 ## Objective (Purpose):
-	1. The online exam portal for CDAC.
-	2. Students and internal users (CDAC staff) through a single Gateway using internet. It will enable CDAC to conduct online exam for students.
+1. The online exam portal for CDAC.
+2. Students and internal users (CDAC staff) through a single Gateway using internet. It will enable CDAC to conduct online exam for students.
 
 ## Scope:
-	1. This system allows student to give exams online via secured network.
-	2. Enabling fair exam for each and every student.
-	3. Student can log in with their id,name and institute id to give the exam and can view their result and their Institutes can view the result of their students.
+1. This system allows student to give exams online via secured network.
+2. Enabling fair exam for each and every student.
+3. Student can log in with their id,name and institute id to give the exam and can view their result and their Institutes can view the result of their students.
 
 ## Functional Requirements:
 
 <b>Student:</b>
 	
-	1. Student can log in by Id and password given by CDAC.
-	2. Multiple students can give exam through this site.
-	3. Interface of software to provide the interaction between students,admins and teachers.
-	4. Software provides platform and saves the time and also saves the record.
-	5. For every question student can select,mark for review,clear,submit,multiple selection for answer which can be viewed from a palatte provided with different colours
-	6. Student can navigate to any question or section.
-	7. verification of student by capturing live photo and alloting a system for exam.
-  	8. Question can be in the form of mcqs,fill in the blanks,true or false.
-	9. Software auto submits the exam after the time runs out.
-	10. After submitting exam software provides exam summary.
+1. Student can log in by Id and password given by CDAC.
+2. Multiple students can give exam through this site.
+3. Interface of software to provide the interaction between students,admins and teachers.
+4. Software provides platform and saves the time and also saves the record.
+5. For every question student can select,mark for review,clear,submit,multiple selection for answer which can be viewed from a palatte provided with different colours
+6. Student can navigate to any question or section.
+7. verification of student by capturing live photo and alloting a system for exam.
+8. Question can be in the form of mcqs,fill in the blanks,true or false.
+9. Software auto submits the exam after the time runs out.
+10. After submitting exam software provides exam summary.
 
 <b>Admin:</b>
 	
-	1. Admin can login into the system 
-	2. Admin can send result to specific student.
-	3. Admin can add,edit and delete the questions
-	4. Creating questions
-	5. Posting Questions
-	6. Marking correct answers within the given options.
-	7. Set marks
+1. Admin can login into the system 
+2. Admin can send result to specific student.
+3. Admin can add,edit and delete the questions
+4. Creating questions
+5. Posting Questions
+6. Marking correct answers within the given options.
+7. Set marks
 
 
 ## NonFunctional Requirement:
