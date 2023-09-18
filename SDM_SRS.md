@@ -44,32 +44,32 @@ Faculty,course coordinator,CDAC director,CDAC management Team,student.
 
 ## NonFunctional Requirement:
 
-### <ins>Security</ins>:
+### <ins>Security </ins>:
 -> The database may get crashed at any certain time due to virus oroperating system failure. Therefore, it is required to take thedatabase backup.
 
-### <ins>Reliability</ins>:
+### <ins>Reliability </ins>:
 -> We need to regularly back up data and have a plan to get things back on track if something breaks.
 
-### <ins>Availibilty<\ins>:
+### <ins>Availibilty </ins>:
 -> The system should be available 99.9% of the time.
 
-### <ins>Maintainability<\ins>:
+### <ins>Maintainability </ins>:
 -> The website can be maintained in present or future. It will be easy to operate new requirements in the individual modules.
 
-### <ins>Accessibility</ins>:
+### <ins>Accessibility </ins>:
 -> The system should have a user-friendly interface with clear navigation and appropriate color contrast to accommodate users with visuals.
 
-### <ins>Durability</ins>:
+### <ins>Durability </ins>:
 -> Ensure that user data, exam content, and system configurations are reliably stored and protected against data corruption.
 
-### <ins>Efficiency</ins>:
+### <ins>Efficiency </ins>:
 -> The system should efficiently use server resources, such as CPU and memory, to provide fast response times.Avoid redundant or unnecessary data storage and processing to minimize resource consumption.
 
-### <ins>Modularity</ins>:
+### <ins>Modularity </ins>:
 -> Divide the system into well-defined modules, such as user management, test creation, and scoring, to make it easier to develop, maintain, and upgrade.
 
-### <ins>Scalability</ins>:
+### <ins>Scalability </ins>:
 -> Design the system architecture to allow adding more servers or instances to handle increased user traffic during peak times.
 
-### <ins>Safety</ins>:
+### <ins>Safety </ins>:
 -> Implement robust backup procedures and disaster recovery plans to ensure data integrity and availability in case of unexpected incidents.
