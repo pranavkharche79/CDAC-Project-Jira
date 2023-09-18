@@ -1,10 +1,10 @@
 ## Student Credentials:-
 	
-1. student id
-2. student password
-3. student photo
-4. student email address
-5. student answers
+1. Student id
+2. Student password
+3. Student photo
+4. Student email address
+5. Student answers
 	
 ## Section Navigation:- 
 	
@@ -34,11 +34,11 @@
 5. Exam Time
 6. Passing Marks
 7. Total Marks
-8. marking system
+8. Marking system
 
 ## Course Coardinator:
     	
-1. centre allocation details
+1. Centre allocation details
 2. Student List
 3. Student Marks
 4. Student Rank
