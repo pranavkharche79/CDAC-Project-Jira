@@ -1,5 +1,5 @@
 
-## <ins> STUDENT:- </ins>
+## <ins>STUDENT</ins>:-
 
 1. As a student i need to check my email so that i can get my exam details.
 2. As a student i need to have my admit card so that i can appear for exam.
@@ -16,13 +16,13 @@
 13. As a student i need to have forgot password option so that i can reset my password.
 	
 
-## FACULTY POV:-
+## <ins>FACULTY POV</ins>:-
 
 1. As a faculty, i need to add or remove questions, so that i can set the questions for student.
 2. As a faculty, i need to view student response,so that i can evaluate the result
 3. As a faculty, i need to have the feedback from students,so that i can get the idea of level of exam.
 
-## CDAC DIRECTOR:- 
+## <ins>CDAC DIRECTOR</ins>:-
 
 1. As a director, i need to have the exam schedule,so that i can authorize the exam.
 2. As a director, i need to get the updates of syllabus from the syllabus development panel,so that i can publish and authorize the same.
