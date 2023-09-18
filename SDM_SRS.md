@@ -18,7 +18,7 @@ Faculty,course coordinator,CDAC director,CDAC management Team,student.
 
 ## Functional Requirements:
 
-<b>Student:</b>
+## <b>Student:</b>
 	
 1. Student can log in by Id and password given by CDAC.
 2. Multiple students can give exam through this site.
@@ -31,7 +31,7 @@ Faculty,course coordinator,CDAC director,CDAC management Team,student.
 9. Software auto submits the exam after the time runs out.
 10. After submitting exam software provides exam summary.
 
-<b>Admin:</b>
+## <b>Admin:</b>
 	
 1. Admin can login into the system 
 2. Admin can send result to specific student.
