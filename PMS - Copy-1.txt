@@ -1,0 +1,67 @@
+User Id = 230945920010
+password = 230945920010
+
+A) PERSONAL DETAILS 
+Name :  BANSODE ADITYA TUKARAM
+Email : (primary)  adityabansode99@gmail.com 
+	 (secondary)  adibansode12@gmail.com
+CCPP Id : #########
+DOB : 12/07/2001
+Mob No.:  (primary)
+	  (secondary)
+Skype Id : 
+Current Add : Plot no. 31B, Urmila society, Dhankawadi, Pune ,411043
+Perm Add : RH-105/8 Shivrana chowk ,Bajajnagar, Aurangabad, 431136
+Nationality : Indian
+
+
+B) ACADEMIC DETAILS
+	
+	i) SSC
+		School : Late Bhairomal Tanwani Vidyamandir
+		Board : Maharashtra State Board
+		Marks Obtained : 436
+		Total Marks : 500
+		Percentage : 87.20%
+		CGPA : 
+		Year Of Passing : 2017
+		Stream : 
+	
+
+       ii) HSC
+		School : Tanwani Junior College 
+		Board : Maharashtra State Board
+		Marks Obtained : 436
+		Total Marks :  	650
+		Percentage : 67.08%
+		Year Of Passing : 2019
+		Stream : Science
+
+C) GRADUATION DETAILS
+
+	Qualification Level : Graduation
+	Qualification : BE
+	Stream : Engineering
+	Specialization: Computer Science
+	University: SAVITRIBAI PHULE PUNE UNIVERSITY
+	Insitute: Dhole Patil College Of engineering, Pune
+	Total Backlogs : 0
+	No. of Attempts : 1
+	Duration : 4
+	Marks		Obtained	Total Marks
+		Sem1 	 
+		Sem2 	 
+		Sem3	 
+		Sem4 	 
+		Sem5 	 
+		Sem6 	 
+		Sem7	 
+		Sem8	 
+		Percentage 
+	Year OF Passing : Apr 2023 / Jul 2023
+	Year Of Admission: Aug 2019
+
+
+skype id: live:.cid.bc68204c8369c94d
+
+project desc: We are creating a blogging website, which will allow users to create account, create and post blogs as well as build a community and the people in community will be able to make comments in the blog post. We will give the user a filter to search blogs as per his wish as he can manage the blogs which will be shown to him and the blogs will be shown to him in latest first.The user will be also getting a feature where he wants to write or publish a blog as we will integrate chatgpt api, so that after passing a particular blog the user will get some key points which he can include in his blog and make it more interesting,
