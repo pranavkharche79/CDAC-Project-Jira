@@ -7,8 +7,8 @@ Email : (primary)  adityabansode99@gmail.com
 	 (secondary)  adibansode12@gmail.com
 CCPP Id : #########
 DOB : 12/07/2001
-Mob No.:  (primary)
-	  (secondary)
+Mob No.:  (primary) 8459875321
+	  (secondary) 9823424434
 Skype Id : 
 Current Add : Plot no. 31B, Urmila society, Dhankawadi, Pune ,411043
 Perm Add : RH-105/8 Shivrana chowk ,Bajajnagar, Aurangabad, 431136
@@ -25,7 +25,8 @@ B) ACADEMIC DETAILS
 		Percentage : 87.20%
 		CGPA : 
 		Year Of Passing : 2017
-		Stream : 
+		Stream : General
+
 	
 
        ii) HSC
