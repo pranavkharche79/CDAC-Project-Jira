@@ -13,7 +13,7 @@
 <br/>
 
 ### 3. Inprogress
-<img src="/Jira_images/inprogress.png"/>
+<img src="/Jira_images/Inprogress.png"/>
 <br/>
 
 ### 4. Scrum
