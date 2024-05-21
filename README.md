@@ -6,7 +6,7 @@
 
 ### 1. Assigning Task
 <img src="/Jira_images/assigning.png"/>
-<br
+<br/>
 
 ### 2. Back-Log
 <img src="/Jira_images/backlog.png"/>
